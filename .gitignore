@@ -1,0 +1,4 @@
+# TikTok uploader tool secrets — never commit these.
+tools/.env
+tools/.tiktok_token.json
+__pycache__/
